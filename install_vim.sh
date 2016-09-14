@@ -1,4 +1,4 @@
-nstall vim.
+# Install vim.
 sudo apt-get -y --force-yes install vim
 
 # Download colors:
